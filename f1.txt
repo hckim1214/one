@@ -2,9 +2,3 @@
 hiiiii
 212222
 answer:no
-=======
-hiiiii 
-212222
-answer:yes
-
->>>>>>> ver2
